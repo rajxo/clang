@@ -12,10 +12,15 @@ int main()
             scanf("%d",&a[i][j]);
         }
     }
-    for(i=0;i<m;i++)
-    {
-        printf("\n");
-        for(j=0;j<n;j++)
-        printf(" %d\t",a[i][j]);
-    }
+
+// hehe loop deleted
+/* it's in the clouds 
+B 
+I
+T
+C
+H
+E
+S
+*/
 }
